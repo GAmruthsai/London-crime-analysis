@@ -1,4 +1,4 @@
-# Raw datasets (too large / sensitive for GitHub)
+# Raw datasets
 data/raw/*.csv
 data/raw/*.xlsx
 data/raw/*.xls
